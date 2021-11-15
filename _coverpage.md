@@ -11,4 +11,4 @@
 - 🌱 I'm learning algorithms now
 
 [GitHub](https://github.com/KiveAllen)
-[Get Started](home.md)
+[Get Started](?id=小幽的世界-10)
