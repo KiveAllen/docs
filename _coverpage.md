@@ -10,6 +10,5 @@
 - 👀 I'm interested in Java
 - 🌱 I'm learning algorithms now
 
-
 [GitHub](https://github.com/KiveAllen)
-[Get Started](/zh-ch/)
+[Get Started](home.md)
