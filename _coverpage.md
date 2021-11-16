@@ -2,7 +2,7 @@
 
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# 小幽的世界 <small>1.0</small>
+# 小幽的世界 <small>❤️</small>
 
 > 
 
@@ -11,4 +11,4 @@
 - 🌱 I'm learning algorithms now
 
 [GitHub](https://github.com/KiveAllen)
-[Get Started](?id=小幽的世界-10)
+[Get Started](?id=小幽的世界-❤%ef%b8%8f)
