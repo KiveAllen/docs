@@ -1,6 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](https://docsify.js.org/_media/icon.svg)
+<img src="images/icon.png" alt="icon" style="zoom:24%;" />
+
+>
 
 # 小幽的世界 <small>❤️</small>
 
